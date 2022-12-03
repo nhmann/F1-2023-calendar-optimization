@@ -1,0 +1,25 @@
+Circuit,Week,Latitude,Longitude,Circuit_Type,circuitId,avgSpeedIndex,fastestLapSpeed,Distance,Type Similarity,Speed Similarity,TempDelta,PrcpDelta,sum
+Australian Grand Prix,9,-37.85,144.97,raceTrack,1,1.06,219.04,0.0,0,0.0,1.6,29.3,30.9
+Qatar Grand Prix,10,25.49,51.45,raceTrack,78,1.07,232.8,11993.17,1,0.99,0.0,19.0,12014.16
+Saudi Arabian Grand Prix,12,21.64,39.1,streetCircuit,77,1.13,243.76,1330.24,0,0.94,1.0,2.2,1334.38
+Brazilian Grand Prix,14,-23.7,-46.7,raceTrack,18,1.02,210.47,10553.75,0,0.88,0.0,89.2,10643.83
+Miami Grand Prix,15,25.96,-80.23,raceTrack,79,1.0,213.26,6575.11,1,0.98,0.0,72.2,6649.3
+United States Grand Prix,16,30.13,-97.64,raceTrack,69,0.97,200.54,1770.64,1,0.97,0.0,57.4,1830.01
+Mexican Grand Prix,18,19.41,-99.09,raceTrack,32,0.93,195.27,1197.53,1,0.96,0.0,53.0,1252.49
+Las Vegas Grand Prix,20,36.12,-115.18,streetCircuit,44,1.0,,2430.27,0,0.93,0.0,1.8,2433.0
+Canadian Grand Prix,22,45.5,-73.53,raceTrack,7,1.0,207.37,3620.57,0,1.0,0.8,106.6,3728.96
+Spanish Grand Prix,24,41.57,2.26,raceTrack,4,0.98,203.79,5907.42,1,0.98,0.0,27.1,5936.49
+Monaco Grand Prix,26,43.74,7.42,streetCircuit,6,0.75,154.85,486.95,0,0.77,0.0,13.3,501.02
+San Marino Grand Prix,27,44.34,11.72,raceTrack,21,1.03,223.12,351.05,0,0.71,0.0,33.9,385.66
+Dutch Grand Prix,29,52.39,4.54,raceTrack,39,0.99,215.65,985.45,0,0.76,1.8,62.6,1050.61
+British Grand Prix,30,52.07,-1.01,raceTrack,9,1.1,229.27,381.32,1,0.89,2.3,65.0,450.51
+Belgian Grand Prix,34,50.44,5.97,raceTrack,13,1.12,231.37,520.36,1,0.98,4.2,90.1,616.64
+Italian Grand Prix,35,45.62,9.29,raceTrack,14,1.19,247.23,589.79,1,0.93,1.8,167.5,761.02
+Austrian Grand Prix,36,47.22,14.76,raceTrack,70,1.08,229.11,456.77,1,0.89,4.1,98.0,560.76
+Hungarian Grand Prix,37,47.58,19.25,raceTrack,11,0.93,193.73,341.2,1,0.85,2.8,48.4,394.25
+European Grand Prix,38,40.37,49.85,streetCircuit,73,0.97,206.3,2563.36,0,0.96,0.0,25.6,2589.91
+Japanese Grand Prix,40,34.85,136.54,raceTrack,22,1.07,220.7,7359.22,0,0.91,0.8,165.9,7526.83
+Chinese Grand Prix,41,31.33,121.23,raceTrack,17,0.97,199.69,1480.1,1,0.9,0.2,63.8,1546.0
+Bahrain Grand Prix,43,26.03,50.52,raceTrack,3,0.99,208.01,6817.58,1,0.97,5.6,0.3,6825.45
+Abu Dhabi Grand Prix,45,24.47,54.61,raceTrack,24,0.95,197.68,446.77,1,0.96,0.6,3.6,452.93
+Singapore Grand Prix,47,1.29,103.86,streetCircuit,15,0.83,170.25,5882.88,0,0.88,3.0,253.4,6140.16
