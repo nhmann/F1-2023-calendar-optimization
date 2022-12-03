@@ -1,0 +1,218 @@
+{
+    "SK": {
+        "country": "bahrain",
+        "name": "sakhir",
+        "grandPrix" : "Bahrain Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "3",
+        "lat": "26.03358",
+        "long": "50.51688"
+    },
+    "JD": {
+        "country": "saudi arabia",
+        "name": "jeddah",
+        "grandPrix" : "Saudi Arabian Grand Prix",
+        "circuitType" : "streetCircuit",
+        "circuitId" : "77",
+        "lat": "21.63697",
+        "long": "39.10299"
+    },
+    "MB": {
+        "country": "australia",
+        "name": "melbourne",
+        "grandPrix" : "Australian Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "1",
+        "lat": "-37.85006",
+        "long": "144.96902"
+    },
+    "SH": {
+        "country": "china",
+        "name": "shanghai",
+        "grandPrix" : "Chinese Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "17",
+        "lat": "31.32978",
+        "long": "121.22633"
+    },
+    "BK": {
+        "country": "azerbaijan",
+        "name": "baku",
+        "grandPrix" : "European Grand Prix",
+        "circuitType" : "streetCircuit",
+        "circuitId" : "73",
+        "lat": "40.37291",
+        "long": "49.85318"
+    },
+    "MI": {
+        "country": "usa",
+        "name": "miami",
+        "grandPrix" : "Miami Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "79",
+        "lat": "25.95687",
+        "long": "-80.23139"
+    },
+    "IM": {
+        "country": "italy",
+        "name": "imola",
+        "grandPrix" : "San Marino Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "21",
+        "lat": "44.34434",
+        "long": "11.71951"
+    },
+    "MO": {
+        "country": "monaco",
+        "name": "monaco",
+        "grandPrix" : "Monaco Grand Prix",
+        "circuitType" : "streetCircuit",
+        "circuitId" : "6",
+        "lat": "43.73548",
+        "long": "7.42128"
+    },
+    "BC": {
+        "country": "spain",
+        "name": "barcelona",
+        "grandPrix" : "Spanish Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "4",
+        "lat": "41.56848",
+        "long": "2.2573"
+    },
+    "MR": {
+        "country": "canada",
+        "name": "montreal",
+        "grandPrix" : "Canadian Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "7",
+        "lat": "45.50164",
+        "long": "-73.52803"
+    },
+    "SB": {
+        "country": "austria",
+        "name": "spielberg",
+        "grandPrix" : "Austrian Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "70",
+        "lat": "47.22344",
+        "long": "14.76069"
+    },
+    "SS": {
+        "country": "great britan",
+        "name": "silverstone",
+        "grandPrix" : "British Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "9",
+        "lat": "52.0733",
+        "long": "-1.01466"
+    },
+    "BP": {
+        "country": "hungary",
+        "name": "budapest",
+        "grandPrix" : "Hungarian Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "11",
+        "lat": "47.58171",
+        "long": "19.25061"
+    },
+    "SP": {
+        "country": "belgium",
+        "name": "spa",
+        "grandPrix" : "Belgian Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "13",
+        "lat": "50.43691",
+        "long": "5.97204"
+    },
+    "ZV": {
+        "country": "netherlands",
+        "name": "zandvoort",
+        "grandPrix" : "Dutch Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "39",
+        "lat": "52.3877",
+        "long": "4.54421"
+    },
+    "MZ": {
+        "country": "italy",
+        "name": "monza",
+        "grandPrix" : "Italian Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "14",
+        "lat": "45.61997",
+        "long": "9.28793"
+    },
+    "SI": {
+        "country": "singapore",
+        "name": "marina bay",
+        "grandPrix" : "Singapore Grand Prix",
+        "circuitType" : "streetCircuit",
+        "circuitId" : "15",
+        "lat": "1.29143",
+        "long": "103.8639"
+    },
+    "SZ": {
+        "country": "japan",
+        "name": "suzuka",
+        "grandPrix" : "Japanese Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "22",
+        "lat": "34.84559",
+        "long": "136.53895"
+    },
+    "LU": {
+        "country": "qatar",
+        "name": "luisail",
+        "grandPrix" : "Qatar Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "78",
+        "lat": "25.48628",
+        "long": "51.45289"
+    },
+    "AU": {
+        "country": "usa",
+        "name": "austin",
+        "grandPrix" : "United States Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "69",
+        "lat": "30.13458",
+        "long": "-97.63585"
+    },
+    "MX": {
+        "country": "mexico",
+        "name": "mexicocity",
+        "grandPrix" : "Mexican Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "32",
+        "lat": "19.40552",
+        "long": "-99.09256"
+    },
+    "SA": {
+        "country": "brasil",
+        "name": "saoPaulo",
+        "grandPrix" : "Brazilian Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "18",
+        "lat": "-23.70118",
+        "long": "-46.69795"
+    },
+    "LV": {
+        "country": "USA",
+        "name": "lasVegas",
+        "grandPrix" : "Las Vegas Grand Prix",
+        "circuitType" : "streetCircuit",
+        "circuitId" : "44",
+        "lat": "36.11511",
+        "long": "-115.17539"
+    },
+    "YM": {
+        "country": "abuDhabi",
+        "name": "yasMarina",
+        "grandPrix" : "Abu Dhabi Grand Prix",
+        "circuitType" : "raceTrack",
+        "circuitId" : "24",
+        "lat": "24.47287",
+        "long": "54.60651"
+    }
+}
